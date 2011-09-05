@@ -17,7 +17,7 @@
   <email>sebastian@phpunit.de</email>
   <active>yes</active>
  </lead>
- <date>2011-MM-DD</date>
+ <date>2011-09-05</date>
  <version>
   <release>1.0.0</release>
   <api>1.0.0</api>
@@ -49,12 +49,12 @@
     <min>5.2.7</min>
    </php>
    <pearinstaller>
-    <min>1.9.3</min>
+    <min>1.9.4</min>
    </pearinstaller>
    <package>
     <name>PHPUnit</name>
     <channel>pear.phpunit.de</channel>
-    <min>3.6.0</min>
+    <min>3.6.0RC1</min>
    </package>
    <extension>
     <name>curl</name>
